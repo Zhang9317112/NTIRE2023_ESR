@@ -23,10 +23,10 @@ def select_model(args, device):
         model = RFDN()
         model.load_state_dict(torch.load(model_path), strict=True)
     elif model_id == 5:
-        from models.team05_exnet import MingjianSRN2
+        from models.team05_exnet import EXnet
         name, data_range = f"{model_id:05}_exnet_baseline", 255.0
         model_path = os.path.join('model_zoo', 'team05_exnet.pth')
-        model = MingjianSRN2(upscale=4, num_in_ch=3, num_out_ch=3, task='lsr',
+        model = EXnet(upscale=4, num_in_ch=3, num_out_ch=3, task='lsr',
                       n_l=26, dim=35, kernel_size=15)
         model.load_state_dict(torch.load(model_path)['params'], strict=True)
 
