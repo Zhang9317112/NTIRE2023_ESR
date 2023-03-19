@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  20 MAR 2023 02:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.16)  20 MAR 2023 04:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**EfficientSR_factsheet.tex
-(./EfficientSR_factsheet.tex
+**SRneXt_factsheet.tex
+(./SRneXt_factsheet.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24>
 (d:/texlive/texlive/2022/texmf-dist/tex/latex/base/article.cls
@@ -390,8 +390,8 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count308
 \l__pdf_internal_box=\box57
 )
-(./EfficientSR_factsheet.aux)
-\openout1 = `EfficientSR_factsheet.aux'.
+(./SRneXt_factsheet.aux)
+\openout1 = `SRneXt_factsheet.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
 LaTeX Font Info:    ... okay on input line 46.
@@ -481,9 +481,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 46.
 LaTeX Info: Redefining \pageref on input line 46.
 LaTeX Info: Redefining \nameref on input line 46.
- (./EfficientSR_factsheet.out) (./EfficientSR_factsheet.out)
+ (./SRneXt_factsheet.out) (./SRneXt_factsheet.out)
 \@outlinefile=\write3
-\openout3 = `EfficientSR_factsheet.out'.
+\openout3 = `SRneXt_factsheet.out'.
 
 LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
 
@@ -512,10 +512,10 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 
 
 ]
-<../competition_picture1.png, id=60, 300.1614pt x 379.6584pt>
-File: ../competition_picture1.png Graphic file (type png)
-<use ../competition_picture1.png>
-Package pdftex.def Info: ../competition_picture1.png  used on input line 125.
+<competition_picture1.png, id=60, 300.1614pt x 379.6584pt>
+File: competition_picture1.png Graphic file (type png)
+<use competition_picture1.png>
+Package pdftex.def Info: competition_picture1.png  used on input line 125.
 (pdftex.def)             Requested size: 237.13594pt x 299.94423pt.
 
 
@@ -526,30 +526,30 @@ Overfull \hbox (60.27144pt too wide) in paragraph at lines 145--157
  [][] 
  []
 
-(./EfficientSR_factsheet.brf)
+(./SRneXt_factsheet.brf)
 \tf@brf=\write4
-\openout4 = `EfficientSR_factsheet.brf'.
+\openout4 = `SRneXt_factsheet.brf'.
 
- [2 <../competition_picture1.png>] [3
+ [2 <./competition_picture1.png>] [3
 
 ]
-(./EfficientSR_factsheet.aux)
+(./SRneXt_factsheet.aux)
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `EfficientSR_factsheet.out' has not changed.
+Package rerunfilecheck Info: File `SRneXt_factsheet.out' has not changed.
 (rerunfilecheck)             Checksum: F62DFE8841BC30BA88309B15D1A0A551;1180.
-Package rerunfilecheck Info: File `EfficientSR_factsheet.brf' has not changed.
+Package rerunfilecheck Info: File `SRneXt_factsheet.brf' has not changed.
 (rerunfilecheck)             Checksum: B1027FCC95C8751B6ECCAD1D5022D9C5;498.
  ) 
 Here is how much of TeX's memory you used:
- 14126 strings out of 478268
- 237460 string characters out of 5846353
- 556133 words of memory out of 5000000
+ 14124 strings out of 478268
+ 237302 string characters out of 5846353
+ 556123 words of memory out of 5000000
  32115 multiletter control sequences out of 15000+600000
  492322 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,10n,91p,693b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,10n,91p,688b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {d:/texlive/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/texlive/t
 exlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/te
 xlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/texl
@@ -562,7 +562,7 @@ xmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><d:/texlive/texlive/2022/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb><d:/texlive/texlive/2022/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on EfficientSR_factsheet.pdf (3 pages, 148664 bytes).
+Output written on SRneXt_factsheet.pdf (3 pages, 148662 bytes).
 PDF statistics:
  159 PDF objects out of 1000 (max. 8388607)
  128 compressed objects within 2 object streams
