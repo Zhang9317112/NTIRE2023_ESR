@@ -296,7 +296,6 @@ class TransLayer(nn.Module):
         return x
 
 
-
 @ARCH_REGISTRY.register()
 class EXnet(nn.Module):
     r"""
